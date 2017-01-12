@@ -1,2 +1,2 @@
 # tasklistcrudapp
-A MEAN App -- Simple CRUD Task List 
+Simple Task List using Mongodb, Express, Angular 2, and Node.js
